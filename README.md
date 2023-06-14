@@ -14,4 +14,5 @@
 |🏦 은행 매니저|2021.12.20 ~ 2021.12.31|팀(2인)|[은행 매니저](https://github.com/na-young-kwon/ios-bank-manager/tree/main)|
 |🏪 오픈 마켓|2022.01.03 ~ 2022.01.28|팀(2인)|[오픈 마켓](https://github.com/na-young-kwon/ios-open-market/tree/main)|
 |📝 동기화 메모장|2022.02.07 ~ 2022.02.25|팀(3인)|[동기화 메모장](https://github.com/na-young-kwon/ios-cloud-notes)|
+|💼 프로젝트 매니저|2022.03.01 ~ 2022.03.25|팀(2인)|[프로젝트 매니저](https://github.com/na-young-kwon/ios-project-manager)|
 
